@@ -14,7 +14,7 @@ const Dashboard = () => {
                 <div className="flex gap-x-4 mt-4">
                     <a href="https://github.com/parthdave2002/Parth---Personal-portfolio" className="border border-indigo-500 hover:bg-indigo-500 text-indigo-600 hover:text-gray-100 transition duration-150 ease-out hover:ease-in p-2 cursor-pointer rounded-full"> <FaGithub className="text-[1rem] transition duration-150 ease-out hover:ease-out text-indigo-600 hover:text-gray-100"/> </a>
                     <a href="https://www.linkedin.com/in/parth-dave-791100228/" className="border border-indigo-500 hover:bg-indigo-500 text-indigo-600 hover:text-gray-100 transition duration-150 ease-out hover:ease-in p-2 cursor-pointer rounded-full"> <FaLinkedinIn className="text-[1rem] transition duration-150 ease-out hover:ease-out text-indigo-600 hover:text-gray-100"/> </a>
-                    <a href="https://www.instagram.com/" className="border border-indigo-500 hover:bg-indigo-500 text-indigo-600 hover:text-gray-100 transition duration-150 ease-out hover:ease-in p-2 cursor-pointer rounded-full"> <FaInstagram className="text-[1rem] transition duration-150 ease-out hover:ease-out text-indigo-600 hover:text-gray-100"/> </a>
+                    {/* <a href="https://www.instagram.com/" className="border border-indigo-500 hover:bg-indigo-500 text-indigo-600 hover:text-gray-100 transition duration-150 ease-out hover:ease-in p-2 cursor-pointer rounded-full"> <FaInstagram className="text-[1rem] transition duration-150 ease-out hover:ease-out text-indigo-600 hover:text-gray-100"/> </a> */}
                 </div>
             </div>
 

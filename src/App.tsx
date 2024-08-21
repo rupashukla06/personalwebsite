@@ -6,6 +6,9 @@ import MyEducation from "./Component/My Education/My-Education";
 import Footer from "./Component/Footer/Footer";
 import Header from "./Component/Header/Header";
 import About from "./Component/About/About";
+import Resume from "./Component/Resume/Resume";
+import ContactUs from "./Component/ContactUs/ContactUs";
+import Testimonial from "./Component/Testimonial/Testimonial";
 
 function App() {
   return (
@@ -15,8 +18,14 @@ function App() {
         <Dashboard />
         <MyEducation />
         <MySkill />
+        <ContactUs />
         <Footer />
+
         {/* <About /> */}
+
+        <Resume />
+
+        {/* <Testimonial /> */}
       </div>
     </>
   );
