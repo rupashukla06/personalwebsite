@@ -6,9 +6,7 @@ import { Flowbite } from 'flowbite-react';
 import theme from "./flowbite-theme";
 
 createRoot(document.getElementById('root')!).render(
-  <StrictMode>
     <Flowbite theme={{theme}}>
       <App />
     </Flowbite>
-  </StrictMode>,
 )
