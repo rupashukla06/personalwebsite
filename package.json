@@ -1,11 +1,12 @@
 {
+  "homepage": "https://parthdave2002.github.io/Parth---Personal-portfolio",
   "name": "personal-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "tsc  && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
