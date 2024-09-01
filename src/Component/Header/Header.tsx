@@ -31,7 +31,7 @@ const Header = () => {
       <div className="w-full fixed top-0 left-0 right-0">
         <nav className={`py-4 md:px-12 px-4 bg-[#0f0715] ${isSticky ? "sticky top-0 right-0 left-0 bg-[#0f0715]" : "" }`}>
           <div className="flex items-center justify-between">
-            <a href="https://mail.google.com/mail/u/0/#inbox" className="text-white hover:text-[#8750f7] font-semibold text-lg cursor-pointer"> daveparth2604@gmail.com </a>
+            <a href="https://mail.google.com/mail/u/0/#inbox" className="text-white hover:text-[#8750f7] font-semibold text-lg cursor-pointer"> rupashukla1006@gmail.com </a>
             <div className="lg:flex items-center gap-3 hidden text-gray-100">
               <a className="block hover:text-[#8750f7] py-2 px-4 cursor-pointer underline-animation">  Home </a>
               <a className="block hover:text-[#8750f7] py-2 px-4 cursor-pointer underline-animation"> Skills </a>

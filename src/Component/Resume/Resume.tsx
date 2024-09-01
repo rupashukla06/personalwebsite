@@ -1,12 +1,12 @@
 import React from 'react';
-import PDF from "/Parth_Dave_Resume.pdf";
+import PDF from "/Rupa_Shukla_Resume.pdf";
 
 const Resume: React.FC = () => {
     const DownloadPDfcall = () =>{
-        const pdfUrl = "/Parth_Dave_Resume.pdf";
+        const pdfUrl = "/Rupa_Shukla_Resume.pdf";
         const link = document.createElement("a");
         link.href = pdfUrl;
-        link.download = "/Parth_Dave_Resume.pdf"; // specify the filename
+        link.download = "/Rupa_Shukla_Resume.pdf"; // specify the filename
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);

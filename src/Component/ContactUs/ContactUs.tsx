@@ -42,7 +42,7 @@ const ContactUs = () => {
                   <div className="self-center rounded-full p-3 bg-gradient-to-b from-[#1c1425] to-[#583683]"> <FiPhoneCall className=" text-[1.8rem] font-bold text-gray-200 "/></div>
                   <div>
                   <div className="text-gray-100 text-[1.2rem] font-semibold leading-5"> Phone : </div>
-                  <div className="text-gray-100 text-[1.3rem] font-bold"> +91-9904764781</div>
+                  <div className="text-gray-100 text-[1.3rem] font-bold"> +91-9981931117</div>
                   </div>
               </div>
 
@@ -50,7 +50,7 @@ const ContactUs = () => {
                   <div className="self-center rounded-full p-3 bg-gradient-to-b from-[#1c1425] to-[#583683]"> <FiMail className=" text-[1.8rem] font-bold text-gray-200 "/></div>
                   <div>
                   <div className="text-gray-100 text-[1.2rem] font-semibold leading-5"> Email : </div>
-                  <div className="text-gray-100 text-[1rem] font-bold"> daveparth2604@gmail.com</div>
+                  <div className="text-gray-100 text-[1rem] font-bold"> rupashukla006@gmail.com</div>
                   </div>
               </div>
 
@@ -58,7 +58,7 @@ const ContactUs = () => {
                   <div className="self-center rounded-full p-3 bg-gradient-to-b from-[#1c1425] to-[#583683]"> <MdOutlineLocationOn className=" text-[1.8rem] font-bold text-gray-200 "/></div>
                   <div>
                   <div className="text-gray-100 text-[1.2rem] font-semibold leading-5"> Address : </div>
-                  <div className="text-gray-100 text-[1rem] font-bold"> Ahmedabad, Gujarat </div>
+                  <div className="text-gray-100 text-[1rem] font-bold"> Indore, Madhya Pradesh </div>
                   </div>
               </div>
             </div>

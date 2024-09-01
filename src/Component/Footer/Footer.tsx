@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="flex justify-center text-gray-100 font-semibold lg:text-[1.2rem] cursor-pointer hover:text-[#8750f7]">  Resume.</div>
               <div className="flex justify-center text-gray-100 font-semibold lg:text-[1.2rem] cursor-pointer hover:text-[#8750f7]">  Testimonial.</div>
             </div>
-            <div className="flex justify-center text-[#8750f7] py-5 lg:text-[1.2rem]"> © 2024 All Rights Reserved by Parth Dave</div>
+            <div className="flex justify-center text-[#8750f7] py-5 lg:text-[1.2rem]"> © 2024 All Rights Reserved by Rupa Shukla</div>
           </div>
           
       </div>
